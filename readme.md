@@ -25,8 +25,8 @@ This project implements a real-time weapon detection system using YOLOv11 and Op
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yashsuman15/weapon-detection.git
-   cd weapon-detection
+   git clone [https://github.com/yashsuman15/weapon-detection.git](https://github.com/yashsuman15/handgun-detection-model)
+   cd handgun-detection-model
    ```
 
 2. Install the required packages:
