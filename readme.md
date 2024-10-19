@@ -71,15 +71,8 @@ Contributions to improve the project are welcome. Please follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## License
-
-[Specify your license here, e.g., MIT License, GPL, etc.]
-
 ## Acknowledgments
 
 - [Ultralytics](https://github.com/ultralytics/ultralytics) for the YOLOv8 implementation
 - [cvzone](https://github.com/cvzone/cvzone) for enhanced OpenCV utilities
 
-## Disclaimer
-
-This software is provided for educational and research purposes only. The authors and contributors are not responsible for any misuse or illegal use of this software. Users are solely responsible for ensuring their use of this software complies with all applicable laws and regulations.
