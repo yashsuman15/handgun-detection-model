@@ -10,6 +10,10 @@ This project implements a real-time weapon detection system using YOLOv11 and Op
 - Displays class name (GUN) and confidence score for each detection
 - Adjustable confidence threshold for detections
 
+## Preview
+![train_batch0](https://github.com/user-attachments/assets/d2ca07f2-80e2-4dcc-9546-4b15324230f5)
+
+
 ## Requirements
 
 - Python 3.11
