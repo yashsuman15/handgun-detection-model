@@ -1,4 +1,4 @@
-# Weapon Detection Program
+# Weapon Detection Model
 
 This project implements a real-time weapon detection system using YOLOv11 and OpenCV. It processes video input to detect weapons (specifically guns) and draws bounding boxes around them with confidence scores.
 
